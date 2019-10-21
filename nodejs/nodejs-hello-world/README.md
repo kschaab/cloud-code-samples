@@ -1,5 +1,5 @@
 # Hello World with Cloud Code
-
+[Get started fast with Cloud Code running in Cloud Shell!](vscode://googlecloudtools.cloudcode/shell?repo=https://github.com/GoogleCloudPlatform/cloud-code-samples.git&subpath=/nodejs/nodejs-hello-world)
 ![Architecture Diagram](./img/diagram.png)
 
 "Hello World" is a simple Kubernetes application that contains a single
